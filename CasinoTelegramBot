@@ -7,7 +7,7 @@ import os
 from keyboa import Keyboa
 
 
-token = '6536517690:AAGoWCnnxX9A7IeMwzPLJDIEV6zoX244YNE'  
+token = 'API_Bot_Tocken'  
 
 bot = telebot.TeleBot(token)
 
